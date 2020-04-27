@@ -1,0 +1,46 @@
+sorting an array
+    loop it through half-size
+       swap first and last
+       a,a[last] = a[last],a
+
+removing duplicates:
+    using dictionary
+find dups: use set and compare length
+Sorted Array: compare with previous element
+
+sum of elements = Target
+loop it: substract with target. if diff in elements then True
+
+
+Strings:
+
+Reverse a string: list and swap first last
+
+Revrse integer
+
+unique char: use dict
+
+anagrams: list, sort and then compare
+
+palindrom: swap first and list or use slicing
+
+longest common prefix: enumerate through any string
+match length, match char append
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

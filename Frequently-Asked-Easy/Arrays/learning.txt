@@ -1,0 +1,18 @@
+reversing an array
+    loop it through half-size
+       swap first and last
+       a,a[last] = a[last],a
+
+removing duplicates:
+    using dictionary
+find dups: use set and compare length
+Sorted Array: compare with previous element
+
+sum of elements = Target
+loop it: substract with target. if diff in elements then True
+
+Removing duplicates in sorted array:
+    1 : use set
+    2: two pointer approach
+        skip until next unique element is founf and then replace
+
